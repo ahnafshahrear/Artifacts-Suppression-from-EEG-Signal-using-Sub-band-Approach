@@ -1,3 +1,4 @@
 # Artifacts Suppression from EEG(electroencephalogram) Signal using Sub-band Approach
 *[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear) - Computer Science & Engineering, University of Rajshahi*
-- **This repository contains my 4th year thesis work**
+# Methodology
+![](https://github.com/ahnafshahrear/Artifacts-Suppression-from-EEG-Signal-using-Sub-band-Approach/blob/main/Flow%20Chart.png)
