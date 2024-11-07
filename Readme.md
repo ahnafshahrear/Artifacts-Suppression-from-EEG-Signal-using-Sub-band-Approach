@@ -1,5 +1,5 @@
 # Artifacts Suppression from EEG(electroencephalogram) Signal using Sub-band Approach
-*[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear) & [Mamun Miah](https://github.com/mamun48) - Computer Science & Engineering, University of Rajshahi*
+***[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear) & [Mamun Miah](https://github.com/mamun48) - Computer Science & Engineering, University of Rajshahi***
 
 
 # Abstract
